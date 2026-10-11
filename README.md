@@ -2,6 +2,8 @@
 
 A Claude Code mod that turns helper agents into an EV charging session.
 
+![Three helper agents charging: the plugs' pins light up, current flows along the bar, and it turns green when they're fully charged](docs/ev-charging.gif)
+
 When Claude splits a job across helper agents (subagents), a charging bar appears above the prompt:
 
 - **One segment per helper.** Current flows along the charged part while they work, and the bar turns green, *Fully charged*, when the last one finishes.
