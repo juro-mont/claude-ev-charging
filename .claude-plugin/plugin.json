@@ -1,0 +1,7 @@
+{
+  "name": "ev-charging",
+  "version": "1.0.0",
+  "description": "An EV-charging progress bar above the prompt while Claude runs helper agents, and a charging-session panel (/agents-info) with each agent as a Type 2 plug.",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

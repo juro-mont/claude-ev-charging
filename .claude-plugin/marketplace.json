@@ -1,0 +1,14 @@
+{
+  "name": "claude-ev-charging",
+  "owner": { "name": "juro-mont", "url": "https://github.com/juro-mont" },
+  "metadata": { "description": "An EV-charging progress bar and session panel for Claude Code helper agents." },
+  "plugins": [
+    {
+      "name": "ev-charging",
+      "source": "./",
+      "description": "Mod: EV-charging progress bar above the prompt and a charging-session panel for helper agents.",
+      "version": "1.0.0",
+      "category": "mod"
+    }
+  ]
+}
